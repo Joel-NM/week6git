@@ -6,6 +6,8 @@ terraform {
     }
   }
 }
+
+#THis is a test commit
 provider "aws" {
     region = "us-east-2"
   
